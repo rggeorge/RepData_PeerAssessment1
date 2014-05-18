@@ -1,8 +1,0 @@
-Reproducible Research: Assignment One
-==================================
-    
-First, we'll load in the data
-
-```{r loading}
-data <- read.csv("activity.zip")
-```
